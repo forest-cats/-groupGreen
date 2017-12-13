@@ -3,19 +3,9 @@
 檢見﨑輝代
 小林悠二
 清水果織子
-
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <title>groupGreen</title>
-</head>
-<body>
-
-</body>
-</html>
-
 日下　真由美
+<<<<<<< HEAD
+=======
 >ああああ
 ああああ
+>>>>>>> a27f6d1397c877b5cf45003a9a99bd3ffd914eb2
